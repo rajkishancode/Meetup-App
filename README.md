@@ -12,7 +12,7 @@ Event Search and Filtering:
 Dropdown: Type of Event: Online/Offline/Both. Both should be the default view.
 
 Search box: Search by event title and tags.
-![alt text]([image_path](https://res.cloudinary.com/dvyicsi5o/image/upload/v1689249171/neoG%202023%20classfiles/MCR/Screenshot_2023-07-13_at_4.23.56_PM_ojzj8i.png))
+![alt text]([https://res.cloudinary.com/dvyicsi5o/image/upload/v1689249171/neoG%202023%20classfiles/MCR/Screenshot_2023-07-13_at_4.23.56_PM_ojzj8i.png])
 
 Meetup Listing Page
 
