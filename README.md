@@ -47,6 +47,5 @@ Allow users to see their RSVPs by changing the button text to “Already RSVPed�
 
 If the event time has crossed, don’t show the RSVP button.
 
-RSVP modal
-
-RSPVed
+![](https://res.cloudinary.com/dvyicsi5o/image/upload/v1689249107/neoG%202023%20classfiles/MCR/Screenshot_2023-07-13_at_4.31.36_PM_epupgo.png)
+![](https://res.cloudinary.com/dvyicsi5o/image/upload/v1689249150/neoG%202023%20classfiles/MCR/Screenshot_2023-07-13_at_4.39.46_PM_gfvyqo.png)
