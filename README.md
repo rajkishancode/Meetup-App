@@ -49,3 +49,5 @@ If the event time has crossed, don’t show the RSVP button.
 
 ![](https://res.cloudinary.com/dvyicsi5o/image/upload/v1689249107/neoG%202023%20classfiles/MCR/Screenshot_2023-07-13_at_4.31.36_PM_epupgo.png)
 ![](https://res.cloudinary.com/dvyicsi5o/image/upload/v1689249150/neoG%202023%20classfiles/MCR/Screenshot_2023-07-13_at_4.39.46_PM_gfvyqo.png)
+
+[JSON DATA FOR MCR 8](https://chartreuse-bike-cf7.notion.site/JSON-Data-for-MCR-8-7688e7b37781468fab6654a742c155bc)
