@@ -31,6 +31,7 @@ Provide details about the event venue and address.
 Include any additional information for attendees, such as dress code, age restrictions, etc.
 
 Display the event tags.
+![alttext](https://res.cloudinary.com/dvyicsi5o/image/upload/v1689249145/neoG%202023%20classfiles/MCR/Screenshot_2023-07-13_at_4.37.53_PM_l0ervc.png)
 
 Event Details Page
 
